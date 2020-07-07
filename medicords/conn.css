@@ -1,0 +1,31 @@
+
+table, th{
+
+
+
+		background-color: grey;
+		border-spacing: 10px;
+		padding-left: 15px;
+		padding-right: 15px;
+		padding: 15px;
+		color: white;
+
+}
+table, td{
+
+		background-color: white;
+		color: grey;
+		padding: 10px;
+
+}
+
+h1{
+	color: red;
+	font-style: italic;
+	font-size: 20px;
+}
+
+div{
+	display: block;
+}
+
